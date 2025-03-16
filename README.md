@@ -13,19 +13,5 @@ This project is an **AI-powered research assistant** that retrieves and summariz
    ```bash
    git clone https://github.com/your-username/research-assistant.git  
    cd research-assistant
-Install dependencies:
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Set up environment variables:
-Create a .env file and add your Google Gemini API key:
-env
-Copy
-Edit
-GOOGLE_API_KEY=your_api_key_here
-Run the script:
-bash
-Copy
-Edit
-python main.py
+
+##Install dependencies:
