@@ -14,4 +14,11 @@ This project is an **AI-powered research assistant** that retrieves and summariz
    git clone https://github.com/your-username/research-assistant.git  
    cd research-assistant
 
-##Install dependencies:
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the script:**
+   ```bash
+   python main.py
+
